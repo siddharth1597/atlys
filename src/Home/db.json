@@ -1,0 +1,31 @@
+{
+    "data": [
+        {
+            "name": "Theresa Webb",
+            "post_time": "5mins ago",
+            "edited": false,
+            "message": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "comments_count": 24,
+            "profile_img": "https://randomuser.me/api/portraits/men/72.jpg",
+            "message_type": "👋"
+        },
+        {
+            "name": "Marvin McKinney",
+            "post_time": "8mins ago",
+            "edited": true,
+            "message": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "comments_count": 19,
+            "profile_img": "https://randomuser.me/api/portraits/men/42.jpg",
+            "message_type": "😞"
+        },
+        {
+            "name": "John Savvy",
+            "post_time": "23mins ago",
+            "edited": false,
+            "message": "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
+            "comments_count": 6,
+            "profile_img": "https://randomuser.me/api/portraits/men/33.jpg",
+            "message_type": "😃"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+.border-gradient {
+    border-color: linear-gradient(#969696 100%, #343434 100%)
+}
+
+.showPassword {
+    width: 1px;
+    height: 26px;
+    position: absolute;
+    right: 10px;
+    top: -3px;
+    transform: rotate(45deg);
+}
+
+.parent {
+    opacity: 0;
+    transition: opacity .1s ease-in;
+}
+
+.animateAdd {
+    opacity: 1;
+}
